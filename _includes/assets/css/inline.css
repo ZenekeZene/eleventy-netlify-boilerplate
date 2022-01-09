@@ -1,7 +1,7 @@
 :root {
-	--primary: blue;
+	--primary: rgb(37, 37, 37);
 	--secondary: white;
-	--background: #FFF0EB;
+	--background: #ffffff;
 }
 
 *, *:before, *:after {
@@ -193,4 +193,9 @@ button {
 	:root {
 		font-size: 1.1rem;
 	}
+}
+
+header,
+.main {
+	margin: 0 auto;
 }
