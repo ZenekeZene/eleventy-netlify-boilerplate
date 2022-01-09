@@ -9,20 +9,15 @@ summary: La luz de la tarde llegaba a trompicones entre maleza, casas de colores
   y vasos de cristal. Luiz, sentado en un banco de madera de ese maltrecho bar,
   paladeaba la espuma de una cerveza sin alcohol. Aquel era un pequeño templo
   para la gente del barrio que, tras jornadas interminables en trabajos
-  precarios, descansaba las lumbares y las preocupaciones. Los dedos de Luiz
-  jugaban nerviosos con la pata de la mesa y la rodilla parecía haberse
-  encontrado cómoda en un trance de baile que no parecía acabar. Otra mirada
-  furtiva a los feligreses y al móvil. Y ahí llegó Paolo. Una copia casi exacta
-  de él, si este hubiera viajado 20 años atrás en el tiempo y la juventud se la
-  hubiera tomado con más calma. Pantalones tejanos rotos, camiseta blanca, y una
-  sonrisa temerosa se cruzaron con la mirada de su padre, que parecía indicar
-  con desaire el dial de su reloj.
+  precarios, descansaba las lumbares y las preocupaciones.
 tags:
   - tech
   - environment
   - politics
   - sport
 ---
+La luz de la tarde llegaba a trompicones entre maleza, casas de colores y vasos de cristal. Luiz, sentado en un banco de madera de ese maltrecho bar, paladeaba la espuma de una cerveza sin alcohol. Aquel era un pequeño templo para la gente del barrio que, tras jornadas interminables en trabajos precarios, descansaba las lumbares y las preocupaciones. Los dedos de Luiz jugaban nerviosos con la pata de la mesa y la rodilla parecía haberse encontrado cómoda en un trance de baile que no parecía acabar. Otra mirada furtiva a los feligreses y al móvil. Y ahí llegó Paolo. Una copia casi exacta de él, si este hubiera viajado 20 años atrás en el tiempo y la juventud se la hubiera tomado con más calma. Pantalones tejanos rotos, camiseta blanca, y una sonrisa temerosa se cruzaron con la mirada de su padre, que parecía indicar con desaire el dial de su reloj.
+
 — Te dije que no vinieras tarde. 
 
 — Ha vuelto a pasar. 
