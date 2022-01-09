@@ -1,7 +1,7 @@
 ---
 layout: layouts/home.njk
-title: Home
-date: 2016-01-01T00:00:00.000Z
+title: Inicio
+date: 2022-01-09T22:20:43.123Z
 permalink: /
 eleventyNavigation:
   key: Home
