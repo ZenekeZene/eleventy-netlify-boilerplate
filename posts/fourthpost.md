@@ -7,8 +7,7 @@ summary: ¿Cómo confiar en una especie que hizo dios a un barrilete cósmico?
   misántropo, pero llevo dos semanas dándole vueltas a esta y otras ideas, el
   mismo tiempo que llevo vagando por un África interminable.
 tags:
-  - environment
-  - politics
+  - existencial
 ---
 <!--StartFragment-->
 
