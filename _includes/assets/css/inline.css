@@ -204,3 +204,30 @@ header {
 	max-width: 37.5em;
 	width: 100%;
 }
+
+blockquote {
+	position: relative;
+	background: whitesmoke;
+	padding: 1rem;
+	margin: 0;
+	padding-left: 2rem;
+	font-style: italic;
+}
+
+blockquote::before {
+	content: "“";
+	font-size: 7rem;
+	position: absolute;
+	left: -2.2rem;
+	top: -1.2rem;
+	color: lightgrey;
+}
+
+blockquote::after {
+	content: "”";
+	font-size: 7rem;
+	position: absolute;
+	right: 0;
+	top: 2rem;
+	color: lightgrey;
+}
