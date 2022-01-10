@@ -199,3 +199,8 @@ header,
 .main {
 	margin: 0 auto;
 }
+
+header {
+	max-width: 37.5em;
+	width: 100%;
+}
