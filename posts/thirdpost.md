@@ -1,14 +1,13 @@
 ---
 title: Susy
 date: 2020-01-01
-author: Jane Doe
+author: ZenekeZene
 summary: En aquella silenciosa madrugada, la luz de la luna caía con suavidad
   sobre las farolas de la avenida de Abando. Bilbao hibernaba. Susy aceleró el
   paso y dio la vuelta por detrás de la estación de tren, con sumo cuidado de no
   hacer chocar los dos botes de Montana que llevaba en la mochila. Plata y oro.
 tags:
-  - tech
-  - politics
+  - urbano
 ---
 <!--StartFragment-->
 
