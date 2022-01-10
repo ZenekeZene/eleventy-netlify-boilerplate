@@ -1,9 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Contacto
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: Esta página alberga una manera de contactar con Zenekezene, el autor de estos microrrelatos.
 section: contact
 date: 2022-01-10T00:10:32.777Z
 permalink: /contact/index.html

@@ -1,8 +1,6 @@
 ---
 title: Sobre mí
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
+metaDescription: Aquí hablamos sobre el autor de los microrrelatos, osea, Zenekezene.
 date: 2022-01-09T23:56:52.812Z
 permalink: /about/index.html
 eleventyNavigation:

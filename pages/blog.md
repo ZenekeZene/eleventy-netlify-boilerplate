@@ -1,7 +1,7 @@
 ---
 layout: layouts/blog.njk
 title: Escrito por Zenekezene
-metaDescription: A sample Blog page listing various posts and authors.
+metaDescription: Un simple blog con microrrelatos, por Zenekezene.
 date: 2022-01-09T23:45:08.989Z
 permalink: /
 eleventyNavigation:
