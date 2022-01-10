@@ -10,7 +10,8 @@ summary: La luz de la tarde entraba por los agujeros de la persiana, rebotaba en
   de una interminable jornada, el sol se despedía con ganas de acostarse, pero
   la cabeza de Abel no parecía tener las mismas intenciones.
 tags:
-  - sport
+  - terror
+  - intriga
 ---
 <!--StartFragment-->
 
