@@ -8,8 +8,7 @@ summary: Caí en la cara oculta de una persona mediocre. He tardado años en
   mucho más honesta cuando sabes que no vas a cambiar el mundo de nadie, ni
   siquiera el tuyo propio, por muy pequeño que sea
 tags:
-  - environment
-  - sport
+  - histórico
 ---
 <!--StartFragment-->
 
