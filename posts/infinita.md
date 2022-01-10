@@ -8,6 +8,7 @@ summary: Infinitas. Vueltas. Ya llevaba más tiempo viendo girar aquel tambor de
   aquellas sábanas en las que acababa de fallecer mi madre esa misma madrugada.
 tags:
   - amor
+  - existencial
 ---
 Infinitas. Vueltas. Ya llevaba más tiempo viendo girar aquel tambor de lo que un programa de lavadora creía que podía durar. Mi cuerpo estaba aquella mañana en esa lavandería. Mis ojos, se encontraban siguiendo incesantemente aquellas sábanas en las que acababa de fallecer mi madre esa misma madrugada. Y mi mente, estaba en otro sitio, ordenando lo sucedido en esos últimos 3 meses. Intentando recordar hasta el más mínimo detalle, atesorando cualquier recuerdo que me acercara más a ella en ese momento, por duro o cruel que ese recuerdo hubiera sido. Como amueblando un lugar al que sabía que iba a visitar el resto de mis días.
 
