@@ -15,11 +15,11 @@ renderData:
   metaDescription: "All posts from the Blog tagged with “{{ tag }}”"
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<h1>Etiqueta “{{ tag }}”</h1>
 
 {% set postslist = collections[tag] %}
 {% include "components/postslist.njk" %}
 
 <nav>
-  <a href="{{ '/blog/' | url }}">← Volver</a>
+  <a href="{{ '/' | url }}">← Volver</a>
 </nav>
