@@ -12,4 +12,7 @@ Literatura breve para ojos inquietos e impacientes, de la mano de [ZenekeZene](h
 
 > Contemplar nuestra mortalidad puede ser un poderoso catalizador para el cambio.
 
-Se te ha quedado el culo de piedra, ¿eh? A mi también.
+Se te ha quedado el culo de piedra, ¿eh? A mi también.\
+\
+\
+🤷‍♂️
