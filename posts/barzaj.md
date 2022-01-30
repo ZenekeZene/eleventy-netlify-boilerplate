@@ -1,6 +1,6 @@
 ---
 title: Barzaj
-date: 2022-01-10T19:01:19.830Z
+date: 2022-01-30T21:31:36.151Z
 author: ZenekeZene
 summary: >-
   Ojalá estuviese leyendo aquellos libros que me hablaban de viajes a La Luna,
