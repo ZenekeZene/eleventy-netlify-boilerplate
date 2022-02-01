@@ -8,8 +8,7 @@ summary: >-
   aquellos libros. Me hacían viajar lejos de aquí. Ojalá. 
 
   Me vi con las rodillas hasta las orejas, barro hasta las cejas y manos ensangrentadas, fumando un cigarro partido que le había robado a Hamza, el jefe de la aldea, antes de quitarle la vida.
-tags:
-  - migración
+tags: []
 ---
 Ojalá estuviese leyendo aquellos libros que me hablaban de viajes a La Luna, tesoros de piratas y viejas historias de mis antepasados. Me encantaba devorar aquellos libros. Me hacían viajar lejos de aquí. Ojalá. 
 
