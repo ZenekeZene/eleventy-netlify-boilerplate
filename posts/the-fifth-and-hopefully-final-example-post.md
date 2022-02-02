@@ -1,6 +1,6 @@
 ---
 title: Pequeña
-date: 2022-01-09T22:36:40.136Z
+date: 2022-02-02T17:26:51.235Z
 author: ZenekeZene
 summary: Caí en la cara oculta de una persona mediocre. He tardado años en
   concluirlo, pero me da igual. Como me da igual ser de estatura pequeña o
