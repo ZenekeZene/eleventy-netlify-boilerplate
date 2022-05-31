@@ -1,7 +1,7 @@
 ---
 title: Infinita
 date: 2022-01-10T19:24:31.498Z
-author: ZenekeZene
+author: Héctor
 summary: Infinitas. Vueltas. Ya llevaba más tiempo viendo girar aquel tambor de
   lo que un programa de lavadora creía que podía durar jamás. Mi cuerpo estaba
   aquella mañana en esa lavandería. Mis ojos, se encontraban siguiendo
@@ -11,7 +11,7 @@ tags:
   - amor
   - existencial
 ---
-Infinitas. Vueltas. Ya llevaba más tiempo viendo girar aquel tambor de lo que un programa de lavadora creía que podía durar jamás. Mi cuerpo estaba aquella mañana en esa lavandería. Mis ojos, se encontraban siguiendo incesantemente aquellas sábanas en las que acababa de fallecer mi madre esa misma madrugada. Y mi mente, estaba en otro sitio, ordenando lo sucedido en esos últimos tres meses. Intentando recordar hasta el más mínimo detalle, atesorando cualquier recuerdo que me acercara más a ella en ese momento, por duro o cruel que ese recuerdo hubiera sido. Sin ser consciente de ello, me encontraba amueblando un lugar en mi cabeza al que sabía que iba a visitar el resto de mis días.
+Infinitas. Vueltas. Ya llevaba más tiempo viendo girar aquel tambor de lo que un programa de lavadora creía que podía durar jamás. Mi cuerpo estaba aquella mañana en esa lavandería. Mis ojos, se encontraban siguiendo incesantemente aquellas sábanas en las que acababa de fallecer mi madre esa misma madrugada. Y mi mente, estaba en otro sitio, ordenando lo sucedido en esos últimos tres meses. Intentando recordar hasta el más mínimo detalle, atesorando cualquier recuerdo que me acercara más a ella en ese momento, por duro o cruel que ese recuerdo hubiera sido. En otras palabras, me encontraba amueblando un lugar en mi cabeza al que sabía que iba a visitar el resto de mis días.
 
 Los hijos solemos creer que nuestros padres son infinitos. Como entidades divinas que estarán ahí siempre, como salvoconducto de una vida incierta a la que no estamos preparados para enfrentar, y que, con un poquito de suerte, sabremos lidiar con el tiempo. Como una red de seguridad en el mejor de los casos, como una fuente de verdad, de lucidez y de faro ante la incertidumbre. Como un tótem que firma tu existencia. O de todo lo contrario en la peor de las suertes. Pero aún con esas, nuestros padres parecen infinitos.
 
